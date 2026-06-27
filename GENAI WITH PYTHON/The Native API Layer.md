@@ -79,7 +79,7 @@ Let's understand every single line of code:
 
 ### Google GenAI (Gemini) 
 
-![Architecture](assets/ gemini api call image 1.png)
+![[gemini api call image 1.png]]
 
 **What's happening behind the scenes?**
 
